@@ -1,0 +1,35 @@
+div#geral{
+	width: 1000px;
+	margin: auto;
+}
+
+div#titulo {
+	text-align: center;
+	margin: auto;
+	width: 300px;
+}
+
+div.saudacao {
+	width: 250px;
+	text-align: left;
+	padding: 10px;
+	margin-top: 25px;
+}
+
+div.mensagensfinais {
+	width: 600px;
+	text-align: left;
+	padding: 10px;
+	margin-top: 25px;
+}
+
+div#desenvolvimento {
+	margin-top: 25px;
+	text-align: justify;
+}
+
+div#desenvolvimento, div#titulo, div.mensagensfinais, div.saudacao {
+	border-radius: 5px;
+	background-color: gray;
+	padding: 10px;
+}
